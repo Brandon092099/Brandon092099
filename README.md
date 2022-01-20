@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brandon092099
 - 👀 I’m interested in software engineering and software development.
-- 🌱 I’m currently learning Java, Git, and GitHub.
+- 🌱 I’m currently a student studying Computer Science at The University of North Carolina at Greensboro.
 - 💞️ I’m looking to collaborate on anything I can assist in!
 - 📫 How to reach me: email: brandongeorge0920@gmail.com
 
